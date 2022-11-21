@@ -1,5 +1,5 @@
 # Design-of-Autonomous-Mobile-Robot
-A Funded Project by La Foundation - Dassault Systems which involves the design of an Autonomous Mobile Robot using LiDAR.
+A Funded Project by La Foundation - Dassault Systems which involves the design of an Autonomous Mobile Robot.
 
 
 
