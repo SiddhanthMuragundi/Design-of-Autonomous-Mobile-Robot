@@ -10,5 +10,5 @@ Design and Development of an Autonomous Mobile Robot (AMR), for an Automated Sto
 ## 3-D Model
 ![AMR Picture](https://user-images.githubusercontent.com/118447607/202997787-54b46745-2fcf-470c-8172-524fd8318e5e.PNG)
 
-We have used Solidworks-2022 for 3D-Modelling. The link for 3D-Models is given below
+We have used Solidworks-2022 for 3D-Modelling. The link for 3D-Models is given below.
 https://drive.google.com/file/d/12cWuVwuB6iBS9Ml25be-3VOpZmxRLxVD/view?usp=sharing
