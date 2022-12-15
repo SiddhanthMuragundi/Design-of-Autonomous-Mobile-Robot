@@ -9,7 +9,7 @@ Autonomous mobile robots are becoming more prominent in recent time because of t
 
 
 ## Problem Statement
-Design and Development of an Autonomous Mobile Robot (AMR), for an Automated Storage and Retrieval System (ASRS), which can carry a minimum payload of 3kg, and lift the payload to a height of 210 mm at a velocity of 0.5 m/s with a runtime of 1 hour.
+Design of an Autonomous Mobile Robot (AMR), for an Automated Storage and Retrieval System (ASRS), which can carry a minimum payload of 3kg, and lift the payload to a height of 210 mm at a velocity of 0.5 m/s with a runtime of 1 hour.
 
 
 
